@@ -1,14 +1,15 @@
 {
-    "HELLO": "Hi there! I’m the personal bot of Andy Brown, a Web Developer from New Hampshire.\nWhat brings you here? %[resume](postback:resume) %[Wanted to get in touch](postback:contact) %[We play soccer together](postback:soccer)",
-    "RESUME": "Very nice! I've got a fancy version on my website, or I can chat about it here. %[Show me the website](http://br0wn.net) %[Tell me more](postback:MORE)",
-    "MORE": "Ok! What would you like to know about? %[Employment History](postback:EMPLOYMENT) %[Education](postback:EDUCATION) %[Extracurriculars](postback:EXTRAS)",
-    "EMPLOYMENT": "Right now I'm working as a Web Application Engineer at Genuine in Boston, MA. %[What else have you done?](postback:MOREWORK) %[What else you got?](postback:MORE) %[I'm all good!](postback:DONE)",
-    "MOREWORK": "Before Genuine I was at Planet Fitness managing their IT department and before that I was a web developer at AdminInternet.%[What else you got?](postback:MORE) %[I'm all good!](postback:DONE)",
-    "EDUCATION": "I went to Salem High School in New Hampshire, and then graduated from the University of NH with a Bachelors in Communication with a minor in Computer Information Technology. %[What else you got?](postback:MORE) %[I'm all good!](postback:DONE)",
-    "EXTRAS": "When I'm not making websites or cool chatbots, I'm probably building things out of wood or chasing a soccer ball. %[What else you got?](postback:MORE) %[I'm all good!](postback:DONE)",
-    "CONTACT": "Well alright! If I'm around you may hear from me on this chat (because it's magical like that). But here are some other ways to get in touch. %[Tweet Me](https://twitter.com/arbrown83) %[Check out my website](http://br0wn.net)",
-    "SOCCER": "Ah, you poor bastard. What were you looking for? %[When's the next game?](postback:NEXTGAME) %[I want to pay you money!](postback:PAYSOCCER)",
-    "NEXTGAME": "I dunno. I haven't been programmed for that yet!",
-    "PAYSOCCER": "$[Soccer Session](66.00)",
-    "DONE": "Thanks for chatting! Hopefully we'll talk again soon!"
+    "HELLO": "Hi there! I’m the personal bot of Andy Brown, a Web Developer from New Hampshire.\nWhat brings you here? I want to... %[see your resume](postback:see your resume) %[get in touch](postback:get in touch) %[get soccer info](postback:get soccer info)",
+    "SEE YOUR RESUME": "Very nice! I've got a fancy version on my website, or I can chat about it here. %[Show me the website](http://br0wn.net) %[Tell me more](postback:tell me more)",
+    "TELL ME MORE": "Ok! What would you like to know about? %[Employment History](postback:employment history) %[Education](postback:education) %[Extracurriculars](postback:extracurriculars)",
+    "WHAT ELSE YOU GOT": "Ok! What would you like to know about? %[Employment History](postback:employment history) %[Education](postback:education) %[Extracurriculars](postback:extracurriculars)",
+    "EMPLOYMENT HISTORY": "Right now I'm working as a Web Application Engineer at Genuine in Boston, MA where I make websites using Drupal.  %[What else have you done?](postback:what else have you done) %[What else you got?](postback:tell me more) %[OK, bye!](postback:ok bye)",
+    "WHAT ELSE HAVE YOU DONE": "Before Genuine I was at Planet Fitness managing their IT department and before that I was a web developer at AdminInternet.%[What else you got?](postback:tell me more) %[OK, bye!](postback:ok bye)",
+    "EDUCATION": "I went to Salem High School in New Hampshire, and then graduated from the University of NH with a Bachelors in Communication with a minor in Computer Information Technology. %[What else you got?](postback:tell me more) %[OK, bye!](postback:ok bye)",
+    "EXTRACURRICULARS": "When I'm not making websites or cool chatbots, I'm probably building things out of wood or chasing a soccer ball. %[What else you got?](postback:tell me more) %[OK, bye!](postback:ok bye)",
+    "GET IN TOUCH": "Well alright! If I'm around you may hear from me on this chat (because it's magical like that). But here are some other ways to get in touch. %[Tweet Me](https://twitter.com/arbrown83) %[Check out my website](http://br0wn.net)",
+    "GET SOCCER INFO": "Ah, you poor bastard. What were you looking for? %[When is the next game?](postback:WHEN IS THE NEXT GAME) %[I owe you money.](postback:i owe you money)",
+    "WHEN IS THE NEXT GAME": "I dunno. I haven't been programmed for that yet!",
+    "I OWE YOU MONEY": "$[Soccer Session](66.00)",
+    "OK BYE": "Thanks for chatting! Hopefully we'll talk again soon!"
 }
