@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hi there! I’m the personal bot of Andy Brown, a Web Developer from New Hampshire.\nWhat brings you here? I want to... %[see your resume](postback:see your resume) %[get in touch](postback:get in touch) %[get soccer info](postback:get soccer info)",
+    "HELLO": "Hi there! I’m the personal bot of Andy Brown, a Web Developer from New Hampshire.\nWhat brings you here? I want to... %[see your resume](postback:see_your_resume) %[get in touch](postback:get_in_touch) %[get soccer info](postback:get_soccer_info)",
     "SEE YOUR RESUME": "Very nice! I've got a fancy version on my website, or I can chat about it here. %[Show me the website](http://br0wn.net) %[Tell me more](postback:tell me more)",
     "TELL ME MORE": "Ok! What would you like to know about? %[Employment History](postback:employment history) %[Education](postback:education) %[Extracurriculars](postback:extracurriculars)",
     "WHAT ELSE YOU GOT": "Ok! What would you like to know about? %[Employment History](postback:employment history) %[Education](postback:education) %[Extracurriculars](postback:extracurriculars)",
