@@ -1,6 +1,5 @@
 {
-    "BOT": "To start, send HELLO.",
-    "HELLO": "Hi there! I’m the personal bot of Andy Brown, a Web Developer from New Hampshire.\nWhat brings you here? %[Checking out your resume](postback:RESUME) %[Wanted to get in touch](postback:CONTACT) %[We play soccer together](postback:SOCCER)",
+    "HELLO": "Hi there! I’m the personal bot of Andy Brown, a Web Developer from New Hampshire.\nWhat brings you here? %[Checking out your resume](postback:resume) %[Wanted to get in touch](postback:contact) %[We play soccer together](postback:soccer)",
     "RESUME": "Very nice! I've got a fancy version on my website, or I can chat about it here. %[Show me the website](http://br0wn.net) %[Tell me more](postback:MORE)",
     "MORE": "Ok! What would you like to know about? %[Employment History](postback:EMPLOYMENT) %[Education](postback:EDUCATION) %[Extracurriculars](postback:EXTRAS)",
     "EMPLOYMENT": "Right now I'm working as a Web Application Engineer at Genuine in Boston, MA. %[What else have you done?](postback:MOREWORK) %[What else you got?](postback:MORE) %[I'm all good!](postback:DONE)",
